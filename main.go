@@ -4,6 +4,8 @@ import (
 	"flag"
 	"log"
 	"net/http"
+
+	"webservice/controllers"
 )
 
 var assetsPath string
